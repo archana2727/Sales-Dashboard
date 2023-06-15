@@ -36,4 +36,4 @@ The month with the highest number of orders and sales was March.
 In 2022, women made more purchases than men.
 The order statuses included Delivered, Refunded, Cancelled, and Returned.
 The top 5 states contributing to sales were Maharashtra, Karnataka, Telangana, Sri Lanka, and Kerala.
-These findings and recommendations can assist Vrinda Stores in improving their business strategies and targeting specific customer segments to drive sales and growth in 2023.
+These findings and recommendations can assist Vrinda Stores in improving their business strategies and targeting specific customer segments to drive sales and growth in 2023. 

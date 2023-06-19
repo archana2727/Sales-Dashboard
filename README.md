@@ -37,3 +37,8 @@ In 2022, women made more purchases than men.
 The order statuses included Delivered, Refunded, Cancelled, and Returned.
 The top 5 states contributing to sales were Maharashtra, Karnataka, Telangana, Sri Lanka, and Kerala.
 These findings and recommendations can assist Vrinda Stores in improving their business strategies and targeting specific customer segments to drive sales and growth in 2023. 
+LEARNINGS-
+Created interactive dashboard to track and analyze online sales data.
+Used complex parameters to drill down in worksheet and customization using filters and slicers.
+Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
+Used different types of customized visualization.

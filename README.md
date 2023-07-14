@@ -45,4 +45,10 @@ Used different types of customized visualization.
 
 ![Sales Dashboard](https://github.com/archana2727/Sales-Dashboard/assets/134779663/b54e6194-9747-4cd9-b871-1e13ab07941b)
 
+![Screenshot (49)](https://github.com/archana2727/Sales-Dashboard/assets/134779663/2d6f2c17-18da-4acf-90e1-ee8906c2bc5d)
 
+![Screenshot (50)](https://github.com/archana2727/Sales-Dashboard/assets/134779663/6ba18ad8-095c-4522-afc0-94ebd31044d4)
+
+![Screenshot (51)](https://github.com/archana2727/Sales-Dashboard/assets/134779663/e2d9b07c-1141-47e4-af7a-9616d81cc2ac)
+
+![Screenshot (52)](https://github.com/archana2727/Sales-Dashboard/assets/134779663/1016d9d1-c8ea-4811-ac8b-d757e49cf40b)

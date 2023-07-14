@@ -42,3 +42,7 @@ Created interactive dashboard to track and analyze online sales data.
 Used complex parameters to drill down in worksheet and customization using filters and slicers.
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
 Used different types of customized visualization.
+
+![Sales Dashboard](https://github.com/archana2727/Sales-Dashboard/assets/134779663/b54e6194-9747-4cd9-b871-1e13ab07941b)
+
+
